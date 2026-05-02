@@ -115,7 +115,8 @@ A detailed explanation of each step, including incremental logic, MERGE operatio
 
 ## 👨‍💻 Author
 
-Ahmed Irshad Hussain  
+Ahmed Irshad Hussain
+sardarahmed.irshad2@gmail.com
 
 ---
 
