@@ -150,6 +150,7 @@ Dashboard contains:
 - Real-time streaming
 - Anomaly detection
 
----Author
+---
+Author
 
-Ahmed Irshad
+Ahmed Irshad Hussain
